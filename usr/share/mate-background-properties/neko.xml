@@ -169,4 +169,52 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kioto - Kyoko Wallpaper</name>
+    <filename>/usr/share/backgrounds/Kioto - Kyoko Wallpaper.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kyouko In Kioto</name>
+    <filename>/usr/share/backgrounds/kyouko-in-kioto.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kyouko In Kioto 2</name>
+    <filename>/usr/share/backgrounds/kyouko-in-kioto-2.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kyouko In Kioto 3</name>
+    <filename>/usr/share/backgrounds/kyouko-in-kioto-3.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kyouko In Kioto 4</name>
+    <filename>/usr/share/backgrounds/kyouko-in-kioto-4.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Wall Moony Kyouko</name>
+    <filename>/usr/share/backgrounds/wall-moony-kyouko.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>
